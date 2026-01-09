@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend development projects<br>🌱 I’m currently learning React & modern UI practices<br>👯 Open to collaboration on UI-based projects<br>💬 Ask me about HTML, CSS, JavaScript & responsive design<br>📫 How to reach me: LinkedIn (add link)<br>
+🔭 I’m currently working on frontend development projects<br>🌱 I’m currently learning React & modern UI practices<br>👯 Open to collaboration on UI-based projects<br>💬 Ask me about HTML, CSS, JavaScript & responsive design<br>📫 How to reach me: LinkedIn (linkedin.com/in/talha-noor-072013313)<br>
 
 
 # 💻 Tech Stack:
